@@ -1,0 +1,4 @@
+<h3>{{folderName}}</h3>
+<button *ngIf="folderName === 'JTC Sharing'" (click)= "goToFolder()">Go To Folder </button>
+<button *ngIf="folderName !== 'JTC Sharing'" (click)= "goToBack()">Go To Back </button>
+
