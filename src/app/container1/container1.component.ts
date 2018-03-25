@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
     <app-header></app-header>
     <app-content></app-content>
     `,
-    styleUrls: ['container1.component.css']
+    styleUrls: ['container1.component.scss']
 })
 
 export class Container1Component {

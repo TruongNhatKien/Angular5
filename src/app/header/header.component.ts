@@ -6,4 +6,12 @@ import {Component} from '@angular/core';
 })
 
 export class HeaderComponent {
+    // folder: String = 'Home';
+
+    // constructor() {
+    // }
+
+    // changeFolder(name) {
+    //     this.folder = name;
+    // }
 }

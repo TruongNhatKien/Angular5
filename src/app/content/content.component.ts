@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
     <app-class-board></app-class-board>
     <app-menu-control></app-menu-control>
     `,
-    styleUrls: ['content.component.css']
+    styleUrls: ['content.component.scss']
 })
 
 export class ContentComponent {

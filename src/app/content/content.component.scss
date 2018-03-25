@@ -1,0 +1,15 @@
+:host {
+    display: flex;
+    height: 100vh;
+    app-class-board{
+        flex: 3;
+        background: #FFFFFF;
+    }
+    app-menu-control{
+        flex: 1;
+        background: #098edb;
+    }
+}
+
+
+

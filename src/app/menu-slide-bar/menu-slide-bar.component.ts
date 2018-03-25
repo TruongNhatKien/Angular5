@@ -3,7 +3,7 @@ import {Component} from '@angular/core';
 @Component({
     selector: 'app-menu-slide-bar',
     templateUrl: 'menu-slide-bar.component.html',
-    styleUrls: ['menu-slide-bar.component.css']
+    styleUrls: ['menu-slide-bar.component.scss']
 })
 
 export class MenuSlideBarComponent {

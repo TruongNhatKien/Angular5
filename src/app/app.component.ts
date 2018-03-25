@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   <app-menu-slide-bar></app-menu-slide-bar>
   <app-container1></app-container1>
   `,
-  styleUrls: ['app.component.css']
+  styleUrls: ['app.component.scss']
 })
 export class AppComponent {
   title = 'app';
